@@ -36,6 +36,8 @@ here is the result:
 ![image](codeImg/frontWeather.PNG)
 ![image](codeImg/getWeather.PNG)
 
+* in the backend we have GET listens for requests that match the provided route and method, and when a match is found, it runs the specified callback function.
+
 * here as you see i created module called weather to return the data for a current weather in following cities (amman , seattle , paris) we make `axios` request to the weather API.
 
 * the result works succesfully like this so i used this URL `https://api.weatherbit.io/v2.0/forecast/daily?city=${searchQuery},&key=${process.env.WEATHER_KEY}&days=4` from weatherBit API that will retrieve data for the 4 days with the description
@@ -43,6 +45,10 @@ here is the result:
 ![image](codeImg/date.png)
 
 ---
+ ### getting movie
+
+
+
 ![image](codeImg/handleMovie.PNG)
 
  i created module for movie, The callback here make an axios request to The Movie DB API using the location info.
