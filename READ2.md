@@ -1,4 +1,8 @@
 ## READ-2-BTEC : Investigating APIs 
+## Activity 2: Designing and Implementing an application that incorporates relevant APIs
+
+* Investigate appropriate APIs for the provided system and improve the provided system by applying these APIs.
+
 
 in our city explorer we used the following APIs:
 
@@ -10,7 +14,7 @@ It is used in geographical information systems to assist in determining the coor
 
 ### usage:
 
-Requests can be submitted to any of the endpoints:
+Requests can be submitted to any of the endpoints 
 `GET https://us1.locationiq.com/v1/search.php?key=YOUR_ACCESS_TOKEN&q=SEARCH_STRING&format=json`
 
 ![image](codeImg/USAGE.png)
