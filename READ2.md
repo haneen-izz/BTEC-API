@@ -32,8 +32,11 @@ the endpoint here is the path(query)
 ### key Authenticatation:
 The Authenticate API Key allows you to safely authenticate an API key with the API Gateway.
 as you see here: 
+
 ![image](codeImg/key.PNG)
+
 so in my city explorer i used env to put the key so here is the key that is unique and different
+
 ![image](codeImg/envKey.PNG)
 
 &nbsp;
