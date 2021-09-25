@@ -21,8 +21,15 @@ in my code i created env file to put the key like this:
 ![image](codeImg/getLocFun.PNG)
 
 
+
 * in the frontEnd i have location API, so on the page will diplay the title ,latitude and longitude end point
 `https://api.weatherbit.io/v2.0/forecast/daily?city=${searchQuery},&key=${process.env.WEATHER_KEY}&days=4`
+
+* when i go to the terminal the data will be appear like this:
+
+![image](codeImg/terminal.PNG)
+
+
 
 * if the users click on submit they will see the data about the location Then the map of the city will display on the page. and it works correctly
 here is the result:
@@ -57,6 +64,8 @@ here is the result:
  i made a test here so it works succesfully so that will return a top twenty movies like this: 
 
 ![image](codeImg/movie.png)
+
+
 
 
 
