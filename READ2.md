@@ -87,5 +87,13 @@ here is the data:
 
 
 
+## links
+live URL: https://sad-hoover-ffd32d.netlify.app/
+
+site overview: https://app.netlify.com/sites/sad-hoover-ffd32d/overview
+
+github rebo for frontEnd: https://github.com/haneen-izz/react-axios
+
+githubRebo for backEnd: https://github.com/haneen-izz/city-explorer-api
 
 
