@@ -88,12 +88,13 @@ here is the data:
 
 
 ## links
-live URL: https://61506ec5632cd51f9010cc2f--admiring-pike-f4d589.netlify.app/
+live URL: https://deploy-preview-11--upbeat-khorana-2af2ca.netlify.app/
 
 site overview: https://app.netlify.com/sites/sad-hoover-ffd32d/overview
 
 github rebo for frontEnd: https://github.com/haneen-izz/react-axios
 
 githubRebo for backEnd: https://github.com/haneen-izz/city-explorer-api
+
 
 
